@@ -1,2 +1,83 @@
+# 📜 Cyber Guard Pro – Code of Conduct
 
-# 🤝 مدونة السلوك نحن نسعى لبناء مجتمع محترم ومتعاون حول مشروع Cyber Guard Pro، حيث يُقدّر الجميع ويُعاملون بعدالة. --- ## 🧭 المبادئ الأساسية - الاحترام المتبادل هو الأساس في كل تفاعل. - يُمنع تمامًا أي شكل من أشكال التمييز أو الإساءة أو التحرش. - جميع المساهمات مرحب بها طالما تلتزم بالقواعد الأخلاقية والتقنية. - يتم التعامل مع الجميع بصدر رحب، بغض النظر عن الخلفية أو الخبرة أو اللغة. --- ## 🧑‍⚖️ السلوك المتوقع - التواصل بلغة واضحة ومحترمة. - احترام وجهات النظر المختلفة دون تهكم أو تقليل. - الالتزام بالشفافية عند تقديم اقتراحات أو تعديلات. - الإبلاغ عن أي سلوك غير لائق فورًا. --- ## 📬 الإبلاغ والتواصل إذا واجهت أي سلوك غير مناسب أو لديك استفسار متعلق ببيئة العمل المجتمعية، يُرجى التواصل مباشرة عبر البريد التالي: 📧 alaat9080@gmail.com سيتم التعامل مع جميع البلاغات بسرية واحترام كامل. --- ## ✒️ التوقيع الرقمي © 2025 — علاء محمود محمد مطور أدوات أمن سيبراني مستقلة | مهندس نظم دفاعية تعتمد على الذكاء الاصطناعي Licensed under the MIT License --- # 🤝 Code of Conduct We strive to build a respectful and collaborative community around the Cyber Guard Pro project, where everyone is valued and treated fairly. --- ## 🧭 Core Principles - Mutual respect is the foundation of every interaction. - Any form of discrimination, abuse, or harassment is strictly prohibited. - All contributions are welcome as long as they follow ethical and technical standards. - Everyone is treated with openness, regardless of background, experience, or language. --- ## 🧑‍⚖️ Expected Behavior - Communicate in a clear and respectful manner. - Respect differing opinions without sarcasm or belittling. - Maintain transparency when suggesting changes or improvements. - Report any inappropriate behavior immediately. --- ## 📬 Reporting and Contact If you encounter any inappropriate behavior or have questions about the community environment, please contact: 📧 alaat9080@gmail.com All reports will be handled with confidentiality and full respect. --- ## ✒️ Digital Signature © 2025 — Alaa Mahmoud Mohamed Independent Cybersecurity Tools Developer | AI Defensive Systems Engineer Licensed under the MIT License
+---
+
+# 🤝 مدونة السلوك
+
+نحن نسعى لبناء مجتمع محترم ومتعاون حول مشروع Cyber Guard Pro، حيث يُقدّر الجميع ويُعاملون بعدالة.
+
+---
+
+## 🧭 المبادئ الأساسية
+
+- الاحترام المتبادل هو الأساس في كل تفاعل.  
+- يُمنع تمامًا أي شكل من أشكال التمييز أو الإساءة أو التحرش.  
+- جميع المساهمات مرحب بها طالما تلتزم بالقواعد الأخلاقية والتقنية.  
+- يتم التعامل مع الجميع بصدر رحب، بغض النظر عن الخلفية أو الخبرة أو اللغة.
+
+---
+
+## 🧑‍⚖️ السلوك المتوقع
+
+- التواصل بلغة واضحة ومحترمة.  
+- احترام وجهات النظر المختلفة دون تهكم أو تقليل.  
+- الالتزام بالشفافية عند تقديم اقتراحات أو تعديلات.  
+- الإبلاغ عن أي سلوك غير لائق فورًا.
+
+---
+
+## 📬 الإبلاغ والتواصل
+
+إذا واجهت أي سلوك غير مناسب أو لديك استفسار متعلق ببيئة العمل المجتمعية، يُرجى التواصل مباشرة عبر البريد التالي:  
+📧 alaat9080@gmail.com
+
+سيتم التعامل مع جميع البلاغات بسرية واحترام كامل.
+
+---
+
+## ✒️ التوقيع الرقمي
+
+© 2025 — علاء محمود محمد  
+مطور أدوات أمن سيبراني مستقلة | مهندس نظم دفاعية تعتمد على الذكاء الاصطناعي  
+Licensed under the MIT License
+
+---
+
+# 🤝 Code of Conduct
+
+We strive to build a respectful and collaborative community around the Cyber Guard Pro project, where everyone is valued and treated fairly.
+
+---
+
+## 🧭 Core Principles
+
+- Mutual respect is the foundation of every interaction.  
+- Any form of discrimination, abuse, or harassment is strictly prohibited.  
+- All contributions are welcome as long as they follow ethical and technical standards.  
+- Everyone is treated with openness, regardless of background, experience, or language.
+
+---
+
+## 🧑‍⚖️ Expected Behavior
+
+- Communicate in a clear and respectful manner.  
+- Respect differing opinions without sarcasm or belittling.  
+- Maintain transparency when suggesting changes or improvements.  
+- Report any inappropriate behavior immediately.
+
+---
+
+## 📬 Reporting and Contact
+
+If you encounter any inappropriate behavior or have questions about the community environment, please contact:  
+📧 alaat9080@gmail.com
+
+All reports will be handled with confidentiality and full respect.
+
+---
+
+## ✒️ Digital Signature
+
+© 2025 — Alaa Mahmoud Mohamed  
+Independent Cybersecurity Tools Developer | AI Defensive Systems Engineer  
+Licensed under the MIT License
