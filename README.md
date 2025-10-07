@@ -145,3 +145,16 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+---
+
+## 🔗 Quick Access
+
+- 📄 [Documentation](https://github.com/alaat9080-svg/cyber-guard-pro/blob/main/docs/architecture.md)  
+- 📚 [Project Wiki](https://github.com/alaat9080-svg/cyber-guard-pro/wiki)  
+- 🚀 [Latest Release](https://github.com/alaat9080-svg/cyber-guard-pro/releases)  
+- 📄 [License (MIT)](https://github.com/alaat9080-svg/cyber-guard-pro/blob/main/LICENSE)  
+- 🤝 [Code of Conduct](https://github.com/alaat9080-svg/cyber-guard-pro/blob/main/CODE_OF_CONDUCT.md)  
+- 🧠 [Developer Contact (LinkedIn)](https://www.linkedin.com/in/alaa-mahmoud-mohamed)  
+- 💻 [GitHub Profile](https://github.com/alaat9080-svg)
