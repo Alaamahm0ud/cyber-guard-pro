@@ -41,6 +41,10 @@ git clone https://github.com/alaat9080-svg/cyber-guard-pro.git
 cd cyber-guard-pro
 cargo build --release
 cargo run --release
+
+## 📁 هيكل المشروع
+
+
 cyber-guard-pro/
 ├── .github/
 │   └── workflows/
@@ -82,3 +86,36 @@ cyber-guard-pro/
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 └── SECURITY.md
+
+---
+
+## 👨‍💻 المطوّر
+
+**Alaa Mahmoud Mohamed**  
+Independent Cybersecurity Tools Developer | AI Defensive Systems Engineer  
+
+📍 Giza, Egypt  
+📧 alaat9080@gmail.com  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/alaa-mahmoud-mohamed)  
+💻 [GitHub](https://github.com/alaat9080-svg)  
+
+---
+
+## 🧾 نبذة عن المشروع
+
+تم تطوير Cyber Guard Pro كمنظومة دفاعية ذكية محلية تعتمد على الذكاء الاصطناعي والخصوصية الكاملة، دون الحاجة لاتصال خارجي أو خدمات سحابية.  
+الهدف من المشروع هو تمكين المستخدم من بناء نظام أمني ذاتي ومستقل يحترم الخصوصية ويعتمد على كود مفتوح ووثائق واضحة.  
+
+---
+
+## 🚀 الرؤية المستقبلية
+
+- تطوير واجهة GUI تفاعلية لسهولة الإدارة والتحكم.  
+- إضافة دعم كامل لأنظمة Windows و macOS.  
+- دمج وحدات تحليل الذاكرة والعمليات في الوقت الفعلي.  
+- توفير مكوّن لتوثيق السلوك عبر Blockchain لأمان متقدم.  
+
+---
+
+© 2025 Alaa Mahmoud Mohamed – Licensed under the MIT License.
