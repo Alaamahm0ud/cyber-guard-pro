@@ -6,6 +6,20 @@ This file presents a collection of graphical interfaces from the CyberGuard Anal
 
 ---
 
+## 🔗 محتوى اللوحات | Dashboard Index
+
+- [لوحة 01 / Dashboard 01](#لوحة-01-إدارة-الحوادث-الأمنية---المدارس-السيبرانية)
+- [لوحة 02 / Dashboard 02](#لوحة-02-نظرة-عامة-على-الحوادث-الأمنية)
+- [لوحة 03 / Dashboard 03](#لوحة-03-إدارة-الحوادث-حسب-الفرق)
+- [لوحة 04 / Dashboard 04](#لوحة-04-حالة-التهديدات-حسب-السيطرة)
+- [لوحة 05 / Dashboard 05](#لوحة-05-الهجمات-ذات-الخطورة-العالية)
+- [لوحة 06 / Dashboard 06](#لوحة-06-توزيع-التهديدات-ومؤشرات-الأداء)
+- [لوحة 07 / Dashboard 07](#لوحة-07-تنبيهات-الحماية-ونمط-التهديدات)
+- [لوحة 08 / Dashboard 08](#لوحة-08-مركز-العمليات-الأمنية)
+- [لوحة 09 / Dashboard 09](#لوحة-09-خريطة-الشبكة-الأمنية)
+
+---
+
 ## 🖼️ لوحة 01: إدارة الحوادث الأمنية - المدارس السيبرانية  
 ## 🖼️ Dashboard 01: Incident Management – Cyber Schools
 
@@ -158,5 +172,12 @@ Alerts categorized by severity, with a line graph showing threat patterns over t
 
 **English:**  
 Visual map of network components: Firewall connected to Web, Mail, App Servers, all linked to Switch 01.
+
+---
+
+## 🎯 الهدف من هذه اللوحات | Purpose of These Dashboards
+
+تم تصميم هذه الواجهات لتوفير رؤية تشغيلية متكاملة لفِرق الأمن السيبراني، سواء في بيئات تعليمية أو مؤسسية.  
+Each dashboard is tailored to deliver actionable insights for cybersecurity teams, enabling faster response, clearer threat categorization, and smarter decision-making.
 
 ---
