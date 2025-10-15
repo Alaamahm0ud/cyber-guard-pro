@@ -1,3 +1,12 @@
+---
+Document Title: CyberGuard 2025 Dashboard Documentation
+Version: v1.0 – Initial Release
+Release Date: 15 October 2025
+Author: Alaa Mahmoud Mohamed
+Status: Public Documentation – First Official Version
+---
+
+
 # 🛡️ توثيق لوحات التحكم - CyberGuard 2025  
 # 🛡️ CyberGuard 2025 Dashboard Documentation
 
