@@ -25,7 +25,7 @@ This file presents a collection of graphical interfaces from the CyberGuard Anal
 
 ![Dashboard 01](./images/dashboard_cyberguard_2025_01.jpg.jpg)
 
-**عربي:**  
+عربي:  
 تعرض هذه اللوحة إحصائيات الحوادث الأمنية في بيئة تعليمية سيبرانية:
 - نسبة الحوادث المغلقة: 78%
 - نسبة الحوادث المفتوحة: 94%
@@ -33,7 +33,7 @@ This file presents a collection of graphical interfaces from the CyberGuard Anal
 - عدد الحوادث المفتوحة: 23  
 توزيع الحوادث حسب النوع: البرمجيات الخبيثة، التصيد الاحتيالي، الوصول غير المصرح به.
 
-**English:**  
+English:  
 This dashboard displays incident statistics in a cyber-educational environment:
 - Closed incidents: 78%
 - Open incidents: 94%
@@ -48,14 +48,14 @@ Incident types include: Malware, Phishing, Unauthorized Access.
 
 ![Dashboard 02](./images/dashboard_cyberguard_2025_02.jpg.jpg)
 
-**عربي:**  
+عربي:  
 - عدد الحوادث: 107  
 - الحوادث المغلقة: 92  
 - الحوادث النشطة: 11  
 - متوسط وقت الاستجابة: 34 ثانية  
 تشمل رسمًا بيانيًا زمنيًا لتوزيع الحوادث.
 
-**English:**  
+English:  
 - Total incidents: 107  
 - Closed: 92  
 - Active: 11  
@@ -69,13 +69,13 @@ Includes a time-based incident distribution chart.
 
 ![Dashboard 03](./images/dashboard_cyberguard_2025_03.jpg.jpg)
 
-**عربي:**  
+عربي:  
 نسبة الاستجابة: 78%  
 نسبة الحل: 94%  
 متوسط وقت الاستجابة: 12 دقيقة  
 توزيع الحوادث حسب الفرق: الدعم، الشبكات، الحماية، التطبيقات.
 
-**English:**  
+English:  
 Response rate: 78%  
 Resolution rate: 94%  
 Average response time: 12 minutes  
@@ -88,11 +88,11 @@ Incidents distributed across: Support, Network, Security, Applications teams.
 
 ![Dashboard 04](./images/dashboard_cyberguard_2025_04.jpg.jpg)
 
-**عربي:**  
+عربي:  
 5 حالات تهديد: تم السيطرة، لم يتم السيطرة، تحليل، تحت المراقبة، مكتشف.  
 كل حالة تعرض عدد المحاولات، الأجهزة، المستخدمين، ونسب النجاح والفشل.
 
-**English:**  
+English:  
 Five threat states: Controlled, Uncontrolled, Under Analysis, Monitored, Detected.  
 Each panel shows attempts, devices, users, and success/failure rates.
 
@@ -103,10 +103,10 @@ Each panel shows attempts, devices, users, and success/failure rates.
 
 ![Dashboard 05](./images/dashboard_cyberguard_2025_05.jpg.jpg)
 
-**عربي:**  
+عربي:  
 رسم بياني يوضح عدد الهجمات خلال أيام الأسبوع، مع خط أحمر للحد الأعلى وخط أزرق للبيانات الفعلية.
 
-**English:**  
+English:  
 Graph showing attack counts across weekdays, with a red threshold line and blue actual data line.
 
 ---
@@ -116,13 +116,13 @@ Graph showing attack counts across weekdays, with a red threshold line and blue 
 
 ![Dashboard 06](./images/dashboard_cyberguard_2025_06.jpg.jpg)
 
-**عربي:**  
+عربي:  
 - نسبة الحماية: 12%  
 - معدل التهديدات اليومية: 4.2  
 - عدد الأجهزة المتأثرة: 8  
 يشمل رسم شريطي ومخطط دائري لتوزيع التهديدات.
 
-**English:**  
+English:  
 - Protection rate: 12%  
 - Daily threat rate: 4.2  
 - Affected devices: 8  
@@ -135,10 +135,10 @@ Includes bar and pie charts for threat distribution.
 
 ![Dashboard 07](./images/dashboard_cyberguard_2025_07.jpg.jpg)
 
-**عربي:**  
+عربي:  
 تنبيهات مصنفة حسب الأهمية، مع رسم بياني لنمط التهديدات عبر الزمن.
 
-**English:**  
+English:  
 Alerts categorized by severity, with a line graph showing threat patterns over time.
 
 ---
@@ -148,13 +148,13 @@ Alerts categorized by severity, with a line graph showing threat patterns over t
 
 ![Dashboard 08](./images/dashboard_cyberguard_2025_08.jpg.jpg)
 
-**عربي:**  
+عربي:  
 - عدد الحوادث: 135  
 - الحوادث المغلقة: 99  
 - الحوادث المفتوحة: 44  
 - MTTR: 25 ثانية | MTTD: 7.4 ثانية
 
-**English:**  
+English:  
 - Total incidents: 135  
 - Closed: 99  
 - Open: 44  
@@ -167,10 +167,10 @@ Alerts categorized by severity, with a line graph showing threat patterns over t
 
 ![Dashboard 09](./images/dashboard_cyberguard_2025_09.jpg.jpg)
 
-**عربي:**  
+عربي:  
 رسم توضيحي لعناصر الشبكة: Firewall متصل بـ Web, Mail, App Servers، وجميعهم مرتبطين بـ Switch 01.
 
-**English:**  
+English:  
 Visual map of network components: Firewall connected to Web, Mail, App Servers, all linked to Switch 01.
 
 ---
@@ -179,5 +179,14 @@ Visual map of network components: Firewall connected to Web, Mail, App Servers, 
 
 تم تصميم هذه الواجهات لتوفير رؤية تشغيلية متكاملة لفِرق الأمن السيبراني، سواء في بيئات تعليمية أو مؤسسية.  
 Each dashboard is tailored to deliver actionable insights for cybersecurity teams, enabling faster response, clearer threat categorization, and smarter decision-making.
+
+---
+
+## ✍️ توقيع المطور | Developer Signature
+
+![Alaa Mahmoud Mohamed](./images/Copilot_20251004_220810.png)
+
+تم تطوير هذه اللوحات بواسطة علاء محمود محمد، مطور مستقل في مجال الأمن السيبراني، متخصص في بناء أدوات تحليل ذكية ومحترمة للخصوصية.  
+These dashboards were developed by Alaa Mahmoud Mohamed, an independent cybersecurity developer specializing in privacy-respecting analytics tools.
 
 ---
