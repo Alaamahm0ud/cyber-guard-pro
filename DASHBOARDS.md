@@ -6,6 +6,8 @@ Author: Alaa Mahmoud Mohamed
 Status: Public Documentation – First Official Version
 ---
 
+![Version](https://img.shields.io/badge/version-v1.0-blue) ![Status](https://img.shields.io/badge/status-public-brightgreen)
+
 
 # 🛡️ توثيق لوحات التحكم - CyberGuard 2025  
 # 🛡️ CyberGuard 2025 Dashboard Documentation
